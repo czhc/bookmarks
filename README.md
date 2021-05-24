@@ -40,3 +40,8 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] [Alpha Homora](https://docs.defisafety.com/finished-reviews/alpha-homora-process-quality-review)
 - [ ] [CREAM Finance](https://docs.defisafety.com/finished-reviews/c.r.e.a.m-finance-pq-review)
 - [ ] [Uniswap V3](https://docs.defisafety.com/misc-and-in-work/uniswap-v3)
+
+
+## Others
+
+- [ ] Missing Semester of your [CS Education](https://missing.csail.mit.edu/)
