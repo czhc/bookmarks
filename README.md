@@ -15,16 +15,20 @@ ZKP is about statistical likelihood of something being true, or minimizing the p
 - [x] ELI5 [computerphile](https://www.youtube.com/watch?v=HUs1bH85X9I) - using ZK for fraud-proofing elections
 - [x] Yao's Millionaire problem [wiki](https://en.wikipedia.org/w/index.php?title=Yao%27s_Millionaires%27_problem&ref=hackernoon.com)
 - [x] [Good Audience](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99): ZK in simple examples 
-- [ ] zkga.me: [Intro to ZK Snarks](https://blog.zkga.me/intro-to-zksnarks)
+- [x] Simply Explained [video](https://www.youtube.com/watch?v=OcmvMs4AMbM)
+- [ ] ING uses [ZK-Range Proof](https://github.com/ing-bank/zkrp) to estimate customer's salary range for loan approval 
+Interactive proofs are limited in transferability - requires repetition of process of proof. 
+Non-interactive proofs do not require interaction between prover and verfier.
 
 ### Non-interactive zero-knowledge proof zk-SNARK 
 
-* succinct: 
-* non-interactive: 
+* succinct: fast (milliseconds), proof of length within 100-bytes
+* non-interactive: single message from prover to verfier
 * argument of knowledge: 
 
-No interaction between prove and verfier
 - [x] [Wiki](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)
+- [ ] [ZCash](https://z.cash/technology/zksnarks/)
+- [ ] zkga.me: [Intro to ZK Snarks](https://blog.zkga.me/intro-to-zksnarks)
 
 
 
