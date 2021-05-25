@@ -18,7 +18,8 @@ ZKP is about statistical likelihood of something being true, or minimizing the p
 - [x] Simply Explained [video](https://www.youtube.com/watch?v=OcmvMs4AMbM)
 - [ ] ING uses [ZK-Range Proof](https://github.com/ing-bank/zkrp) to estimate customer's salary range for loan approval 
 - [ ] Phyiscal zero-knowledge object-comparison for [Nuclear Warhead Verification](https://www.nature.com/articles/ncomms12890.pdf)
-
+- [ ] [Why I wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+- [ ] 
 Interactive proofs are limited in transferability - requires repetition of process of proof. 
 Non-interactive proofs do not require interaction between prover and verfier.
 
