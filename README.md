@@ -47,7 +47,7 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] Running ETH2 validators on AWS [Geth](https://docs.google.com/document/d/1ug-UruaXsghWy_0qvcUWOnJT9ltFho8rQxrIo7vv3Tk/edit) [BeaconChain](https://docs.google.com/document/d/1pTSwozCFXOP3tJM_dX2QAa8anF1BLYBf8eOEBnEZESo/edit)
 - [ ] Medalla ETH 2.0 Testnet [README](https://github.com/goerli/medalla/blob/master/medalla/README.md)
 - [ ] Tips & best practices [Coinmonks](https://medium.com/coinmonks/how-to-stake-32-eth-the-best-practices-eth2-staking-e35dd0de1ff2)
-- [ ] Running Geth [guide](https://geth.ethereum.org/docs/install-and-build/installing-geth) [QuickNode](https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node)
+- [ ] Running Geth [guide](https://geth.ethereum.org/docs/install-and-build/installing-geth) [QuickNode](https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node) [Mercury](https://medium.com/mercuryprotocol/how-to-run-an-ethereum-node-on-aws-a8774ed3acf6)
 
 ## Unsorted
 
