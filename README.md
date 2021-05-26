@@ -43,6 +43,8 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] [Uniswap V3](https://docs.defisafety.com/misc-and-in-work/uniswap-v3)
 
 
-## Others
+## Unsorted
 
 - [ ] Missing Semester of your [CS Education](https://missing.csail.mit.edu/)
+- [ ] Hierarchical Deterministic wallets [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+- [ ] HD wallets implemented in ruby [GemHQ](https://github.com/GemHQ/money-tree)
