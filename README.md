@@ -42,6 +42,9 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] [CREAM Finance](https://docs.defisafety.com/finished-reviews/c.r.e.a.m-finance-pq-review)
 - [ ] [Uniswap V3](https://docs.defisafety.com/misc-and-in-work/uniswap-v3)
 
+## DevOps on Defi
+
+- [ ] Running ETH2 validators on AWS [Geth](https://docs.google.com/document/d/1ug-UruaXsghWy_0qvcUWOnJT9ltFho8rQxrIo7vv3Tk/edit) [BeaconChain](https://docs.google.com/document/d/1pTSwozCFXOP3tJM_dX2QAa8anF1BLYBf8eOEBnEZESo/edit)
 
 ## Unsorted
 
