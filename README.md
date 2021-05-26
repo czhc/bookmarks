@@ -42,10 +42,11 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] [CREAM Finance](https://docs.defisafety.com/finished-reviews/c.r.e.a.m-finance-pq-review)
 - [ ] [Uniswap V3](https://docs.defisafety.com/misc-and-in-work/uniswap-v3)
 
-## DevOps on Defi
+## DevOps
 
 - [ ] Running ETH2 validators on AWS [Geth](https://docs.google.com/document/d/1ug-UruaXsghWy_0qvcUWOnJT9ltFho8rQxrIo7vv3Tk/edit) [BeaconChain](https://docs.google.com/document/d/1pTSwozCFXOP3tJM_dX2QAa8anF1BLYBf8eOEBnEZESo/edit)
 - [ ] Medalla ETH 2.0 Testnet [README](https://github.com/goerli/medalla/blob/master/medalla/README.md)
+- [ ] Tips & best practices [Coinmonks](https://medium.com/coinmonks/how-to-stake-32-eth-the-best-practices-eth2-staking-e35dd0de1ff2)
 
 ## Unsorted
 
