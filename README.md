@@ -40,6 +40,7 @@ Non-interactive proofs do not require interaction between prover and verfier.
 Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocols: 
 - [ ] [Alpha Homora](https://docs.defisafety.com/finished-reviews/alpha-homora-process-quality-review)
 - [ ] [CREAM Finance](https://docs.defisafety.com/finished-reviews/c.r.e.a.m-finance-pq-review)
+- [ ] [CREAM Trailbybits audit](https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf)
 - [ ] [Uniswap V3](https://docs.defisafety.com/misc-and-in-work/uniswap-v3)
 
 ## DevOps
