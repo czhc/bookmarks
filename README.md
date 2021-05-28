@@ -56,3 +56,4 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] Hierarchical Deterministic wallets [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 - [ ] HD wallets implemented in ruby [GemHQ](https://github.com/GemHQ/money-tree)
 - [ ] Rust to Ruby [sdogruyol](https://github.com/Sdogruyol/rust-vs-ruby)
+- [ ] Solana: 710K tps similar to centralized databases [docs](https://docs.solana.com/introduction)
