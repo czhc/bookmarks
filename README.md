@@ -57,3 +57,4 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] HD wallets implemented in ruby [GemHQ](https://github.com/GemHQ/money-tree)
 - [ ] Rust to Ruby [sdogruyol](https://github.com/Sdogruyol/rust-vs-ruby)
 - [ ] Solana: 710K tps similar to centralized databases [docs](https://docs.solana.com/introduction)
+- [ ] Graph: Cost Model [Workshop](https://www.youtube.com/watch?v=s7zNzgiL4z4)
