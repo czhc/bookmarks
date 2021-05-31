@@ -50,6 +50,13 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] Tips & best practices [Coinmonks](https://medium.com/coinmonks/how-to-stake-32-eth-the-best-practices-eth2-staking-e35dd0de1ff2)
 - [ ] Running Geth [guide](https://geth.ethereum.org/docs/install-and-build/installing-geth) [QuickNode](https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node) [Mercury](https://medium.com/mercuryprotocol/how-to-run-an-ethereum-node-on-aws-a8774ed3acf6)
 
+## EF Project
+
+- [ ] OS [City](https://os.city/en/)
+- [ ] Unicef [CryptoFund](https://www.unicef.org/innovation/stories/unicef-cryptofund)
+- [ ] Etherisc [Crop Insurance](https://blog.etherisc.com/etheriscs-crop-insurance-initiative-in-kenya-earns-support-from-ethereum-foundation-4f951df1db86)
+- [ ] Issues: Harnessing blockchain for [Sustainable development](https://unctad.org/system/files/information-document/CSTD2020-2021_Issues02_Blockchain_en.pdf) 2020
+
 ## Unsorted
 
 - [ ] Missing Semester of your [CS Education](https://missing.csail.mit.edu/)
