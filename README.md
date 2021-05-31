@@ -65,3 +65,4 @@ Collection of [PQRs](https://docs.defisafety.com/finished-reviews/) for protocol
 - [ ] Rust to Ruby [sdogruyol](https://github.com/Sdogruyol/rust-vs-ruby)
 - [ ] Solana: 710K tps similar to centralized databases [docs](https://docs.solana.com/introduction)
 - [ ] Graph: Cost Model [Workshop](https://www.youtube.com/watch?v=s7zNzgiL4z4)
+- [ ] Automata MEV.[wiki](https://docs.ata.network/mev/introduction/)
