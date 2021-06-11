@@ -2,3 +2,4 @@ code/aave.js
 code/node_modules/
 code/package.json
 code/yarn.lock
+private/*
